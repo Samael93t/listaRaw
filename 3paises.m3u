@@ -1,0 +1,142 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Ecuador", EC: Canal Uno
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/1575.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Ecuador", EC: Canal Uno*
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/13733.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Ecuador", EC: Ecuador TV
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/1573.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Ecuador", EC: Ecuador TV *
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/13732.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Ecuador", EC: Ecuavisa
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/1577.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Ecuador", EC: Gamavision
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/1579.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Ecuador", EC: Gol TV
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/1580.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Ecuador", EC: Oromar
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/1581.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Ecuador", EC: TC Television
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/1583.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Ecuador", EC: TC Televisión *
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/13731.ts
+
+#EXTINF:-1 tvg-id="EC: Canela" tvg-logo="noimage.png" group-title="Ecuador", EC: Canela
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/15063.ts
+
+#EXTINF:-1 tvg-id="EC: Ecuavisa *" tvg-logo="noimage.png" group-title="Ecuador", EC: Ecuavisa *
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/15064.ts
+
+#EXTINF:-1 tvg-id="EC: RTS" tvg-logo="noimage.png" group-title="Ecuador", EC: RTS
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/15065.ts
+
+#EXTINF:-1 tvg-id="EC: Teleamazonas" tvg-logo="noimage.png" group-title="Ecuador", EC: Teleamazonas
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/15066.ts
+
+#EXTINF:-1 tvg-id="EC: Teleamazonas **" tvg-logo="noimage.png" group-title="Ecuador", EC: Teleamazonas **
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/15067.ts
+
+#EXTINF:-1 tvg-id="EC: Teleamazonas *" tvg-logo="noimage.png" group-title="Ecuador", EC: Teleamazonas *
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/15069.ts
+
+#EXTINF:-1 tvg-id="EC: TVC" tvg-logo="noimage.png" group-title="Ecuador", EC: TVC
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/15070.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Colombia", CO: Caracol
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/7096.ts
+
+#EXTINF:-1 tvg-id="CO CARACOL" tvg-logo="noimage.png" group-title="Colombia", CO: Caracol Full HD
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/1567.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Colombia", CO: Caracol Full HD *
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/14279.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Colombia", CO: Caracol HD
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/13741.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Colombia", CO: Caracol HD *
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/14280.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Colombia", CO: RCN
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/1569.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Colombia", CO: RCN *
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/13718.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Colombia", CO: RCN HD
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/13527.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Colombia", CO: Señal Colombia
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/1571.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Colombia", CO: Señal Colombia *
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/1550.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Colombia", CO: Señal Colombia **
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/13852.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Colombia", CO: Telecafe
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/1572.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="México", MX: ADN 40
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/3306.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="México", MX: Azteca 7 Full HD
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/3370.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="México", MX: Azteca 7 HD
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/247.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="México", MX: El Financiero Bloomberg
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/3325.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="México", MX: Milenio TV
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/3372.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="México", MX: Star TVE
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/3339.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="México", MX: Televisa Puebla
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/3326.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="México", MX: TV Más
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/3360.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="http://logos.iptv.wtf/deportes/tvcdeportes.png" group-title="México", MX: TVC Deportes HD
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/3353.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="México", MX: Unicable
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/237.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="http://logos.iptv.wtf/musica/htv.png" group-title="Música", HTV
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/13483.ts
+
+#EXTINF:-1 tvg-id="CL HTV" tvg-logo="http://logos.iptv.wtf/musica/htv.png" group-title="Música", HTV *
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/9121.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Música", MTV 00s Full HD
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/3350.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Música", MTV 80s
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/13858.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Música", MTV Full HD
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/3343.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Música", MTV Hits
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/5904.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Música", MTV Live Full HD
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/3348.ts
+
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="noimage.png" group-title="Música", Telehit Plus Full HD
+http://live.iptv.wtf:80/live/yfdzpozy/OY36ify5x8/13856.ts
+
